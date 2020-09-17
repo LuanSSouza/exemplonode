@@ -1,0 +1,5 @@
+CREATE DATABASE exemplonodedb;
+
+USE exemplonodedb;
+
+CREATE TABLE exemplo (id INT PRIMARY KEY AUTO_INCREMENT, nome VARCHAR(255) NOT NULL);
